@@ -4,7 +4,7 @@
   "description": "Result in JavaScript on paper",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/babel src --out-dir dist"
+    "build": "node lib/paperscript.js"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
