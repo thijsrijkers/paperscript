@@ -31,3 +31,9 @@ doc("value").ToString();
 # This will result into:
 document.getElementByID("value").ToString(); 
 ```
+
+For documentation, usage, and examples, see: {Comming soon}
+
+To suggest a feature or report a bug: https://github.com/thijsrijkers/paperscript/issues
+
+The source repository: https://github.com/thijsrijkers/paperscript.git
