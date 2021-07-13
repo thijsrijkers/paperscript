@@ -27,6 +27,7 @@ npm run build
 Code example:
 
 ```shell
+# Small example of paper code:
 doc("value").ToString();
 # This will result into:
 document.getElementByID("value").ToString(); 
