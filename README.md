@@ -14,3 +14,20 @@ Once you have Node.js installed:
 # Install locally for a project:
 npm install --save-dev paperscript
 ```
+
+## Getting started
+
+When you done coding your .paper file:
+
+```shell
+# To compile files you need to run:
+npm run build
+# This will compile the .paper files in src to newly generated js files in the dist folder to use
+```
+Code example:
+
+```shell
+doc("value").ToString();
+# This will result into:
+document.getElementByID("value").ToString(); 
+```
