@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/abLzO0e.png" width="132" height="96"> </p>
+<p align="center"><img src="https://i.imgur.com/Tk4CNy5.gif" width="132" height="96"> </p>
 <h3 align="center">PaperScript</h3>
 
 ## Introduction
